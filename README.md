@@ -11,8 +11,5 @@
 <br>
 😄 Pronouns: Him/he/his.
 <br>
-⚡ Fun fact: 
-I am a cool person with good attitudes. I am also a TikToker.
-<br><br>
-Love to hang out with my friends as well as be social.
+⚡ Fun fact:I am a cool person with good attitudes. I am also a TikToker. Love to hang out with my friends.
 <hr>
