@@ -1,4 +1,5 @@
-
+<h2>About Me</h2>
+<hr>
 - 👋 Hi, I’m Ameem Rahman
 - 👀 I’m interested in development and design.
 - 🌱 I’m currently learning IT at Fanshawe College in London, Ontario, Canada.
