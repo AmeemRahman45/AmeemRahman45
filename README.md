@@ -1,4 +1,4 @@
-<h2 style="font-size: 55px;">About Me</h2>
+<h1>About Me</h1>
 <hr>
 - 👋 Hi, I’m Ameem Rahman
 <br>
