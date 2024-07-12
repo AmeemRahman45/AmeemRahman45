@@ -1,5 +1,4 @@
 <h1>About Me</h1>
-<hr>
 - 👋 Hi, I’m Ameem Rahman
 <br>
 - 👀 I’m interested in development and design.
