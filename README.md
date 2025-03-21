@@ -3,7 +3,7 @@
 <br>
 👀 I’m interested in development and design.
 <br>
-🌱 I’m currently learning IT at Fanshawe College in London, Ontario, Canada.
+🌱 I’m currently learning Interactive Media Design at Seneca College in Toronto, Ontario, Canada.
 <br>
 💞️ I’m looking to collaborate on cool, amazing projects with anyone who is interesting person. 
 <br>
